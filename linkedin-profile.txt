@@ -1,0 +1,28 @@
+// LinkedIn Profile Mockup 
+
+Profile: 
+Daniel Ezequiel Bae 
+Full Stack Software Developer 
+Los Angeles Metropolitan Area 
+
+About: 
+I am an aspiring Full Stack Software Developer who enjoys connecting the dots: problems as opportunities, innovation and creativity, and a tight-knit environment. I have strong technical skills and a background in a multinational trading company (import/export). 
+
+Currently I am a student at Springboard's Software Engineering Track learning front and back-end web development, databases, and data structures and algorithms. 
+
+Education: 
+Springboard Software Engineering Track - January 2021 
+
+Technical Skills: 
+- Front-end development (HTML, CSS, JavaScript) 
+- Back-end development 
+- Testing and Debugging 
+- Version Control Systems 
+
+Languages:
+- Spanish (Native)
+- Korean (Advanced) 
+
+Links: 
+GitHub - https://github.com/danveb
+LinkedIn - https://www.linkedin.com/in/daniel-ezeq-bae/
