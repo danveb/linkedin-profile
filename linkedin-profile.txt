@@ -1,8 +1,8 @@
-// LinkedIn Profile Mockup 
+// LinkedIn Profile Mockup (ex. https://www.linkedin.com/in/derekmurray-/)
 
 Profile: 
 Daniel Ezequiel Bae 
-Full Stack Software Developer 
+Software Engineer | Front End | JavaScript 
 Los Angeles Metropolitan Area 
 
 About: 
@@ -10,14 +10,34 @@ I am an aspiring Full Stack Software Developer who enjoys connecting the dots: p
 
 Currently I am a student at Springboard's Software Engineering Track learning front and back-end web development, databases, and data structures and algorithms. 
 
-Education: 
-Springboard Software Engineering Track - January 2021 
+// elevator pitch; transferrable skills from previous career (ex. project management, collaboration, working with teams from different countries, effective communication, etc.) 
+// List professional skills: Languages, Front End, Back End, Databases, Virtual Control Systems 
 
-Technical Skills: 
+Experience: 
+// quantify results, accomplishments for each position 
+// Springboard -> focus capstone (choose 2-3 projects to showcase) 
+// Okaya -> past tense accomplishments
+// Meitrack -> past tense accomplishments (increased number of Argentina accounts by 3, developed sales plan to enter Chile, etc.) 
+// GS Global -> past tense accomplishments 
+
+Education: 
+Springboard
+// Computer Software Engineering
+// 2020 - 2021
+
+// • 800+ hour hands-on curriculum with 1:1 industry expert mentor oversight, and completion of 4 portfolio projects covering front-end web development, back-end web development, and full stack development.
+// • Mastering Javascript, DOM Manipulation, Git, Ajax, jQuery, Python, Flask, SQL, PostgresQL, Node, Express, React, and Redux.
+// • Data structures and Algorithms 
+
+Projects: 
+// add smaller projects from GitHub 
+
+Skills: 
 - Front-end development (HTML, CSS, JavaScript) 
 - Back-end development 
 - Testing and Debugging 
 - Version Control Systems 
+// remove all sales related keywords
 
 Languages:
 - Spanish (Native)
